@@ -1,0 +1,10 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "!",
+  "log_channel_id": YOUR_LOG_CHANNEL_IDS,
+  "enable_badwords_filter": true,
+  "enable_invite_filter": true,
+  "enable_caps_filter": true,
+  "enable_repeat_filter": true,
+  "enable_antilink_filter": true
+}
